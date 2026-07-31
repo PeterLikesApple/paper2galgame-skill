@@ -15,15 +15,7 @@
 
 ## 安装（WorkBuddy）
 
-### 方式一：从 SkillHub 市场安装（审核通过后可用）
-
-在 WorkBuddy 对话中直接说：
-
-```
-帮我安装 paper2galgame 技能
-```
-
-### 方式二：本地安装
+### 方式一：本地安装
 
 把本仓库的 `paper2galgame` 目录（或解压 zip 包）放到以下任一位置：
 
@@ -32,7 +24,7 @@
 
 重启 WorkBuddy 即生效，对话中提到 Paper2Gal / 转视觉小说 等关键词会自动触发。
 
-### 方式三：通过 GitHub 导入
+### 方式二：通过 GitHub 导入
 
 WorkBuddy 技能管理 → 通过 URL 导入 → 填入本仓库地址。
 
@@ -63,11 +55,6 @@ paper2galgame/
 │   └── icon.png        # 技能图标
 └── references/         # 参考文档
 ```
-
-## 发布状态
-
-- **SkillHub**：v1.0.1 已提交审核（skillId 135531），审核通过后用户可一键安装
-- **本仓库**：源码公开，可自由安装/二次开发
 
 ## License
 

@@ -1,15 +1,15 @@
 ---
 name: paper2galgame
 slug: paper2galgame
-version: "1.0.1"
+version: "1.0.3"
 displayName: "Paper2Galgame"
-summary: "把 PDF/DOCX/PPT/文本学习资料一键转化为互动视觉小说（galgame），让学习变游戏"
-description: Use Paper2Galgame through its official CLI to turn PDF, DOCX, PPT/PPTX, or text into interactive visual-novel stories; manage or search characters and backgrounds; import or list saves; and authenticate the Paper2Gal account. Trigger whenever the user mentions Paper2Gal, Paper2Galgame, paper-to-galgame conversion, or asks to create a visual novel from a document with Paper2Gal.
+summary: "把 PDF/DOCX/PPT/文本学习资料一键转化为互动视觉小说（galgame），让学习变游戏。Turn PDF/DOCX/PPT/text into interactive visual-novel (galgame) stories to make learning fun."
+description: "把 PDF/DOCX/PPT/纯文本学习资料一键转化为互动视觉小说（galgame）故事；管理或搜索角色与背景；导入或查看存档；完成 Paper2Gal 账号认证。当用户提到 Paper2Gal、Paper2Galgame、把文档转成视觉小说、生成 galgame 故事时触发。Turn PDF, DOCX, PPT/PPTX, or text into interactive visual-novel stories; manage or search characters and backgrounds; import or list saves; and authenticate the Paper2Gal account. Trigger whenever the user mentions Paper2Gal, Paper2Galgame, paper-to-galgame conversion, or asks to create a visual novel from a document with Paper2Gal."
 tags: [visual-novel, galgame, education, gamified-learning, storytelling]
 license: MIT
 homepage: "https://paper2gal.com"
 metadata:
-  version: "1.0.1"
+  version: "1.0.3"
 agent_created: true
 ---
 
